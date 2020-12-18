@@ -1,3 +1,4 @@
+const PORT = process.env.PORT || 3000;
 const express =   require('express');
 const path = require('path');
 const morgan = require('morgan');
@@ -13,7 +14,7 @@ app.use('/api/', require('./routes/routes'));
 app.get("/", (req, res) => {
     res.json("Bienvenido a mi Gurdaropa");
   });
-app.set("port",5001);
-app.listen(app.get("port"), ()=>{
-    console.log(`Servidor corriendo en el puerto 5001`);
+
+app.listen(PORT, ()=>{
+    console.log(`Servidor corriendo en el puerto ${PORT}`);
 });
