@@ -1,0 +1,62 @@
+[
+  {
+    "id": 2,
+    "type": "Camisa",
+    "size": "M",
+    "brand": "Nike",
+    "cloth": "Seda",
+    "color": "blanco",
+    "male": true,
+    "female": true
+  },
+  {
+    "id": 3,
+    "type": "Camisa",
+    "size": "L",
+    "brand": "Adidas",
+    "cloth": "Licra",
+    "color": "Negro",
+    "male": true,
+    "female": true
+  },
+  {
+    "id": 4,
+    "type": "Pantalon",
+    "size": "28",
+    "brand": "Gordito Sexy",
+    "cloth": "Algodhon",
+    "color": "Azul Oxford",
+    "male": true,
+    "female": false
+  },
+  {
+    "id": 5,
+    "type": "Camisa",
+    "size": "L",
+    "brand": "Adidas",
+    "cloth": "Licra",
+    "color": "Negro",
+    "male": true,
+    "female": true
+  },
+  {
+    "id": 6,
+    "type": "Camisa",
+    "size": "L",
+    "brand": "Adidas",
+    "cloth": "Licra",
+    "color": "Negro",
+    "male": true,
+    "female": true
+  },
+  {
+    "id": 7,
+    "type": "Camisa",
+    "size": "L",
+    "brand": "Adidas",
+    "cloth": "Licra",
+    "color": "Negro",
+    "male": true,
+    "female": true
+  }
+]
